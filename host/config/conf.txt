@@ -1,0 +1,8 @@
+[mal-trap-helper]
+machine_name = Malware-Analyst
+snapshot_name = mts
+guest_ip = 192.168.56.3
+host_ip = 192.168.56.1
+submit_port = 2330
+event_handler_port = 8083
+report_port = 8085

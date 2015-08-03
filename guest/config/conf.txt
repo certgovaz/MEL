@@ -1,0 +1,12 @@
+[mal-trap-helper]
+agent_ip = 192.168.56.3
+host_ip = 192.168.56.1
+submit_port = 2330
+event_handler_port = 8083
+clamscanlog = c:\\logs\\clam.log
+avirascanlog = c:\\logs\\avira.log
+pe_parse_log = c:\\logs\\pe.log
+capture_bat_log = c:\\logs\\capturebat.log
+windump_log = c:\\logs\\tcpdump.pcap
+process_log = c:\\logs\\process.log
+report_port = 8085
