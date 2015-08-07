@@ -16,7 +16,7 @@ report_port = c['mal-trap-helper']['report_port']
 
 #################################################################
 print("-" * 50)
-print("[*] Malware-Trap-Helper v0.1")
+print("[*] Malware-Event-Logging v0.1")
 print("[*] http://www.cert.gov.az")
 print("[*] malware_lab@cert.gov.az")
 print("[*] Time:",asctime())
